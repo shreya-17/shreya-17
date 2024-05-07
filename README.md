@@ -2,9 +2,9 @@ Sure, here's the recreated profile focusing solely on DevOps engineering:
 
 ---
 
-## Hi there, I'm [Shreya Chouhan](https://shreyachouhan.github.io) 👋🏼👨🏻‍💻
+## Hi there, I'm Shreya Chouhan 👋🏼👩🏻‍💻
+I am a DevOps Professional with over 4.4 Years of Experience in Infrastructure Creation, CI/CD, and Configuration Management. I am passionate about DevOps, ⚙️ Terraform for Cloud Infrastructure creation, and ⚙️ Ansible for Configuration Management. I love to learn and contribute in any and every possible way. 🌟
 
-I am a DevOps Professional with over 4.4 Years of Experience in Infrastructure Creation, CI/CD, and Configuration Management. I am passionate about DevOps 📊, Terraform for Cloud Infrastructure creation, and love to learn and contribute in any and every possible way.
 
 **I am open to**:
 - Any collaboration work,
@@ -36,6 +36,22 @@ I am a DevOps Professional with over 4.4 Years of Experience in Infrastructure C
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)&nbsp;
+
+#### ⚙️💻 OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&nbsp;
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+#### 🚀💻 IDEs
+
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)&nbsp;
+
 
 #### ⚙️ Monitoring & Logging:
 
@@ -66,4 +82,3 @@ I am a DevOps Professional with over 4.4 Years of Experience in Infrastructure C
 
 --- 
 
-This version highlights your expertise and interests in DevOps tools and technologies, removing the data science-related skills and languages. If there's anything else you'd like to include or adjust, feel free to let me know!
