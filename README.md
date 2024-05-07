@@ -1,4 +1,3 @@
-Sure, here's the recreated profile focusing solely on DevOps engineering:
 
 ---
 
